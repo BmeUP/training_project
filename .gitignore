@@ -1,0 +1,6 @@
+.env
+env
+.coverage
+__pycache__/
+.python-version
+*.db
